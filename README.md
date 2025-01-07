@@ -7,7 +7,7 @@ Selamat datang di portofolio Saya. Berikut adalah beberapa proyek yang telah dik
 - Teknologi yang digunakan: Bootstrap, Javascript, Php, Laravel, Mysql.
 - [Live Demo](https://github.com/rizkysepandi/bumdes)
 
-### 2. [Website Wisata UMKM](https://github.com/username/project2)
+### 2. [Website Wisata UMKM](https://github.com/rizkysepandi/Portofolio/tree/main/Proyek-2)
 - Deskripsi: Another awesome project.
 - Teknologi yang digunakan: jQuery, Php, Mysql, Bootstrap.
 - [Live Demo](https://username.github.io/project2)
