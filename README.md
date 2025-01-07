@@ -17,6 +17,6 @@ Selamat datang di Portofolio Saya. Berikut adalah beberapa proyek yang telah dik
 - **Backend**: Php, Laravel.
 - **Database**: MySQL.
 
-## 📞 Hubungi Saya
+## 📞 Kontak Saya
 - **Email**: [email@example.com](mailto:email@example.com)
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/username)
+- **Whatsapp**: [LinkedIn Profile](https://linkedin.com/in/username)
