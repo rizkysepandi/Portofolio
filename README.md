@@ -2,7 +2,7 @@
 Selamat datang di Portofolio Saya selama berkuliah dan mengikuti pelatihan keahlian:
 
 ## Projects
-### 1. [Website responsif keuangan berbasis SAP](https://github.com/username/project1)
+### 1. [Website Keuangan Berbasis SAP](https://github.com/username/project1)
 - Deskripsi: A brief description of the project.
 - Teknologi yang digunakan: Bootstrap, JavaScript, Php, Laravel, Mysql.
 - [Live Demo](https://username.github.io/project1)
