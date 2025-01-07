@@ -1,5 +1,5 @@
 # 📂 Portofolio
-Selamat datang di Portofolio Saya. Berikut adalah beberapa proyek yang telah dikerjakan selama berkuliah dan mengikuti pelatihan keahlian:
+Selamat datang di portofolio Saya. Berikut adalah beberapa proyek yang telah dikerjakan selama berkuliah dan mengikuti pelatihan keahlian:
 
 ## Projects
 ### 1. [Website Keuangan Akuntansi Berbasis SAP](https://github.com/rizkysepandi/bumdes)
