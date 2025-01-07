@@ -18,5 +18,5 @@ Selamat datang di Portofolio Saya. Berikut adalah beberapa proyek yang telah dik
 - **Database**: MySQL.
 
 ## 📞 Kontak Saya
-- **Email**: [email@example.com](mailto:email@example.com)
-- **Whatsapp**: [LinkedIn Profile](https://linkedin.com/in/username)
+- **Email**: [rizkybadega@gmail.com](mailto:rizkybadega@gmail.com)
+- **Whatsapp**: 085864558336
