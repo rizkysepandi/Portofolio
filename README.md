@@ -2,7 +2,7 @@
 Selamat datang di Portofolio Saya. Berikut adalah beberapa proyek yang telah dikerjakan selama berkuliah dan mengikuti pelatihan keahlian:
 
 ## Projects
-### 1. [Website Keuangan Berbasis SAP](https://github.com/rizkysepandi/bumdes) <-klik.
+### 1. [Website Keuangan Berbasis SAP](https://github.com/rizkysepandi/bumdes)
 - Deskripsi: A brief description of the project.
 - Teknologi yang digunakan: Bootstrap, Javascript, Php, Laravel, Mysql.
 - [Live Demo](https://github.com/rizkysepandi/bumdes)
