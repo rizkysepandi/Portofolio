@@ -4,7 +4,7 @@ Selamat datang di Portofolio Saya selama berkuliah dan mengikuti pelatihan keahl
 ## Projects
 ### 1. [Website Keuangan Berbasis SAP](https://github.com/username/project1)
 - Deskripsi: A brief description of the project.
-- Teknologi yang digunakan: Bootstrap, JavaScript, Php, Laravel, Mysql.
+- Teknologi yang digunakan: Bootstrap, Javascript, Php, Laravel, Mysql.
 - [Live Demo](https://username.github.io/project1)
 
 ### 2. [Website Wisata UMKM](https://github.com/username/project2)
