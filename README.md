@@ -13,7 +13,7 @@ Selamat datang di portofolio Saya. Berikut adalah beberapa proyek yang telah dik
 - [Live Demo](https://username.github.io/project2)
 
 ### 3. [Smart Farming IoT](https://youtu.be/_a4AwKP-mXc)
-- **Deskripsi:** Dalam proyek ini, ESP32 yang digunakan berperan sebagai mikrokontroler utama yang menghubungkan dan mengelola data dari beberapa sensor Sebagai pusat kendali, ESP32 berfungsi untuk mengumpulkan data dari semua sensor secara real-time, memproses dan menganalisis data, serta mengontrol perangkat seperti pompa air atau kipas berdasarkan hasil pengukuran.
+- **Deskripsi:** Dalam proyek ini, ESP32 yang digunakan berperan sebagai mikrokontroler utama yang menghubungkan dan mengelola data dari beberapa sensor Sebagai pusat kendali, ESP32 berfungsi untuk mengumpulkan data dari semua sensor secara real-time, memproses dan menganalisis data, serta mengontrol perangkat seperti pompa air berdasarkan hasil pengukuran dari sensor.
 - **Teknologi yang digunakan:** C++, MySQL, MQTT, HTTP, Modbus, Postman, Kicad, Arduino Framework.
 
 ## 🛠️ Teknologi yang Saya Kuasai
