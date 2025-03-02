@@ -1,2 +1,2 @@
 # smartfarmingIoT
-**Link Video Demo Tertera di PDF**
+**Link Video:** https://youtu.be/_a4AwKP-mXc
