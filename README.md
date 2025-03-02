@@ -13,7 +13,7 @@ Selamat datang di portofolio Saya. Berikut adalah beberapa proyek yang telah dik
 - [Live Demo](https://username.github.io/project2)
 
 ### 3. [Smart Farming IoT](https://youtu.be/_a4AwKP-mXc)
-- Deskripsi: Another awesome project.
+- Deskripsi: IoT Platform merupakan jembatan atau middleware yang menghubungkan hardware dengan application layer atau bahkan antar hardware dalam sistem Internet of Things (IoT). Dalam ekosistem IoT, berbagai perangkat keras seperti sensor, aktuator, dan mikrocontroller (misalnya Arduino, ESP32, atau Raspberry Pi) digunakan untuk mengumpulkan data dari lingkungan.
 - Teknologi yang digunakan: C++, MySQL, MQTT, HTTP, Modbus, Kicad, Arduino Framework.
 
 ## 🛠️ Teknologi yang Saya Kuasai
