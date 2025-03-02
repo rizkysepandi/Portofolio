@@ -14,7 +14,7 @@ Selamat datang di portofolio Saya. Berikut adalah beberapa proyek yang telah dik
 
 ### 3. [Smart Farming IoT](https://youtu.be/_a4AwKP-mXc)
 - Deskripsi: Another awesome project.
-- Teknologi yang digunakan: C++, MySQL, MQTT, HTTP, Modbus, Arduino Framework.
+- Teknologi yang digunakan: C++, MySQL, MQTT, HTTP, Modbus, Kicad, Arduino Framework.
 
 ## 🛠️ Teknologi yang Saya Kuasai
 - **Internet of Things**: Arduino Framework, C++, MQTT, PCB Design Kicad, microcontroller.
