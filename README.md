@@ -12,10 +12,10 @@ Selamat datang di portofolio Saya. Berikut adalah beberapa proyek yang telah dik
 
 ### 3. [Smart Farming IoT](https://github.com/rizkysepandi/Portofolio/tree/main/Proyek-3)
 - **Deskripsi:** Dalam proyek ini, ESP32 yang digunakan berperan sebagai mikrokontroler utama yang menghubungkan dan mengelola data dari beberapa sensor Sebagai pusat kendali, ESP32 berfungsi untuk mengumpulkan data dari semua sensor secara real-time, memproses dan menganalisis data, serta mengontrol perangkat seperti pompa air berdasarkan hasil pengukuran dari sensor.
-- **Teknologi yang digunakan:** C++, XAMPP MySQL, MQTT, HTTP, Modbus, Postman, Kicad, Arduino Framework, Virtuino Android, MIT AI2 Companion Android.
+- **Teknologi yang digunakan:** C++, Node-Red, XAMPP MySQL, MQTT, HTTP, Modbus, Postman, Kicad, Arduino Framework, Virtuino Android, MIT AI2 Companion Android.
 
 ## 🛠️ Teknologi yang Saya Kuasai
-- **Internet of Things**: Arduino Framework, XAMPP, C++, MQTT, PCB Design Kicad, Microcontroller.
+- **Internet of Things**: Arduino Framework, XAMPP, C++, MQTT, Node-Red, PCB Design Kicad, Microcontroller.
 - **Frontend**: Boostrap, JavaScript, jQuery.
 - **Backend**: PHP Laravel.
 - **Database**: XAMPP MySQL.
