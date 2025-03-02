@@ -17,6 +17,7 @@ Selamat datang di portofolio Saya. Berikut adalah beberapa proyek yang telah dik
 - Teknologi yang digunakan: C++, MySQL, MQTT, HTTP, Modbus, Arduino Framework.
 
 ## 🛠️ Teknologi yang Saya Kuasai
+- **Internet of Things**: Arduino Framework, C++, MQTT, PCB Design Kicad, microcontroller.
 - **Frontend**: Boostrap, JavaScript, jQuery.
 - **Backend**: Php, Laravel.
 - **Database**: MySQL.
