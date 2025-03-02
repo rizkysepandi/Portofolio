@@ -12,7 +12,7 @@ Selamat datang di portofolio Saya. Berikut adalah beberapa proyek yang telah dik
 - Teknologi yang digunakan: jQuery, Php, Mysql, Bootstrap.
 - [Live Demo](https://username.github.io/project2)
 
-### 3. [Smart Farming IoT](https://github.com/rizkysepandi/Portofolio/tree/main/Proyek-3)
+### 3. [Smart Farming IoT](https://youtu.be/_a4AwKP-mXc)
 - Deskripsi: Another awesome project.
 - Teknologi yang digunakan: C++, MySQL, MQTT, HTTP, Modbus, Arduino Framework.
 
