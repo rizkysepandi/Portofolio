@@ -27,3 +27,6 @@ Selamat datang di portofolio Saya. Berikut adalah beberapa proyek yang telah dik
 ## 📞 Kontak Saya
 - **Email**: [rizkybadega@gmail.com](mailto:rizkybadega@gmail.com)
 - **Whatsapp**: 085864558336
+- **Telegram**: 085864558336
+- **Instagram**: mohammadrizkysepandis
+- **Linkedin**: -
