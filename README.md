@@ -2,7 +2,7 @@
 Selamat datang di portofolio Saya. Berikut adalah beberapa proyek yang telah dikerjakan selama berkuliah dan mengikuti pelatihan keahlian:
 
 ## Projects
-### 1. [Website Keuangan Akuntansi Berbasis SAP](https://github.com/rizkysepandi/Portofolio/tree/main/Proyek-1)
+### 1. [Website Siabdes Keuangan Akuntansi Berbasis SAP](https://github.com/rizkysepandi/Portofolio/tree/main/Proyek-1)
 - **Deskripsi:** SIABDes adalah sebuah website penyedia jasa pencatatan dan penyusunan laporan keuangan untuk BUMDes dan BUMDesma di seluruh Indonesia sehingga tersusun dan terstruktur dengan baik dan benar serta sesuai dengan standar keuangan yang berlaku. Website ini dibangun menggunakan bahasa pemrograman (php) dengan framework laravel 9 serta mysql sebagai database. Selain itu layanan produk hosting yang disewa adalah hostinger. Website ini mudah untuk dijalankan karena memiliki perintah yang sederhana dan ringkas serta fitur yang telah terintegrasi.
 - **Teknologi yang digunakan:** Bootstrap, Javascript, PHP Laravel, XAMPP MySQL.
 
