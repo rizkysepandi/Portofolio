@@ -10,11 +10,11 @@ Selamat datang di portofolio Saya. Berikut adalah beberapa proyek yang telah dik
 - **Deskripsi:** Proyek akhir kuliah ini bertujuan untuk membuat sistem alat berbasis IoT sederhana yaitu chamber pintar pakan domba ternak yang terpasang modul sensor loadcell untuk deteksi ketersediaan pakan dan sensor DHT22 untuk mendeteksi keadaan suhu dan kelembaban pada lingkungan kandang yang dapat mempengaruhi tingkat nafsu makan domba ternak.
 - **Teknologi yang digunakan:** Arduino Framework, C++, Sensor Integration, Blynk Android App.
 
-### 3. [Website Wisata UMKM Sederhana](https://github.com/rizkysepandi/Portofolio/tree/main/Proyek-2)
+### 3. [Website Wisata UMKM Sederhana](https://github.com/rizkysepandi/Portofolio/tree/main/Proyek-3)
 - **Deskripsi:** Sebuah UMKM yang bergerak di bidang pariwisata, bermaksud mengembangkan aplikasi berbasis web sederhana untuk menyediakan daftar paket wisata yang dapat dilihat dan dapat dipesan oleh customer. Selain itu, data pesanan paket wisata dapat dikelola oleh operator.
 - **Teknologi yang digunakan:** jQuery, PHP, XAMPP MySQL, Bootstrap.
 
-### 4. [Smart Farming IoT](https://github.com/rizkysepandi/Portofolio/tree/main/Proyek-3)
+### 4. [Smart Farming IoT](https://github.com/rizkysepandi/Portofolio/tree/main/Proyek-4)
 - **Deskripsi:** Dalam proyek ini, ESP32 yang digunakan berperan sebagai mikrokontroler utama yang menghubungkan dan mengelola data dari beberapa sensor Sebagai pusat kendali, ESP32 berfungsi untuk mengumpulkan data dari semua sensor secara real-time, memproses dan menganalisis data, serta mengontrol perangkat seperti pompa air berdasarkan hasil pengukuran dari sensor.
 - **Teknologi yang digunakan:** Arduino framework, C++, Node-Red, XAMPP MySQL, MQTT, HTTP, Modbus, Postman, Kicad, Arduino Framework, Virtuino Android, MIT AI2 Companion Android.
 
