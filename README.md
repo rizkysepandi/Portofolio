@@ -7,7 +7,7 @@ Selamat datang di portofolio Saya. Berikut adalah beberapa proyek yang telah dik
 - **Teknologi yang digunakan:** Bootstrap, Javascript, PHP Laravel, XAMPP MySQL.
 
 ### 2. [Website Wisata UMKM](https://github.com/rizkysepandi/Portofolio/tree/main/Proyek-2)
-- **Deskripsi:** Another awesome project.
+- **Deskripsi:** Sebuah UMKM yang bergerak di bidang pariwisata, bermaksud mengembangkan aplikasi berbasis web sederhana untuk menyediakan daftar paket wisata yang dapat dilihat dan dapat dipesan oleh customer. Selain itu, data pesanan paket wisata dapat dikelola oleh operator.
 - **Teknologi yang digunakan:** jQuery, PHP, XAMPP MySQL, Bootstrap.
 
 ### 3. [Smart Farming IoT](https://github.com/rizkysepandi/Portofolio/tree/main/Proyek-3)
