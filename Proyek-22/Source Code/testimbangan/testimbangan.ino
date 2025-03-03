@@ -5,8 +5,8 @@
 #define BLYNK_PRINT Serial
 #define DHTPIN 5   // pin 2 untuk koneksi sensor DHT22
 #define DHTTYPE DHT22  // Type DHT-22
-#define BOTtoken "6430863003:AAHKqGD0e6442FA-KVbft34WiSsolJkHj40"
-#define idAnda "1554564842"
+#define BOTtoken ""
+#define idAnda ""
 
 #include "HX711.h"
 #include "DHT.h"
@@ -26,8 +26,8 @@ DHT dht(DHTPIN, DHTTYPE);
 //CTBot telebot;
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
-//String token ="6430863003:AAHKqGD0e6442FA-KVbft34WiSsolJkHj40";
-//const int id = 1554564842;
+//String token ="";
+//const int id = ;
 long bufKirimPesan, Bot_lasttime;
 int Bot_mtbs = 1500, kirimPesan = 120000; 
 String txtBuff = "";
