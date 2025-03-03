@@ -6,7 +6,7 @@ Selamat datang di portofolio Saya. Berikut adalah beberapa proyek yang telah dik
 - **Deskripsi:** SIABDes adalah sebuah website penyedia jasa pencatatan dan penyusunan laporan keuangan untuk BUMDes dan BUMDesma di seluruh Indonesia sehingga tersusun dan terstruktur dengan baik dan benar serta sesuai dengan standar keuangan yang berlaku. Website ini dibangun menggunakan bahasa pemrograman (php) dengan framework laravel 9 serta mysql sebagai database. Selain itu layanan produk hosting yang disewa adalah hostinger. Website ini mudah untuk dijalankan karena memiliki perintah yang sederhana dan ringkas serta fitur yang telah terintegrasi.
 - **Teknologi yang digunakan:** Bootstrap, Javascript, PHP Laravel, XAMPP MySQL.
 
-### 2. [Desain Dan Implementasi Storage Pintar Berbasi IoT Untuk Ketersediaan Makanan Ternak](https://github.com/rizkysepandi/Portofolio/tree/main/Proyek-2)
+### 2. [Desain Dan Implementasi Storage Pintar Berbasis IoT Untuk Ketersediaan Makanan Ternak](https://github.com/rizkysepandi/Portofolio/tree/main/Proyek-2)
 - **Deskripsi:** Proyek akhir kuliah ini bertujuan untuk membuat sistem alat berbasis IoT sederhana yaitu chamber pintar pakan domba ternak yang terpasang modul sensor loadcell untuk deteksi ketersediaan pakan dan sensor DHT22 untuk mendeteksi keadaan suhu dan kelembaban pada lingkungan kandang yang dapat mempengaruhi tingkat nafsu makan domba ternak.
 - **Teknologi yang digunakan:** Arduino Framework, C++, Sensor Integration, Blynk Android App.
 
